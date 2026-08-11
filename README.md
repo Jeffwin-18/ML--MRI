@@ -268,12 +268,6 @@ After processing, the dashboard displays:
 
 ---
 
-## Contributors
-
-* Full Stack Development
-* Machine Learning Engineering
-* Data Analysis
-
 ---
 
 ## License
